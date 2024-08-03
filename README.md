@@ -15,5 +15,5 @@ deliver faster than expected. Comfortable for Front-End web development.
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest) 
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
