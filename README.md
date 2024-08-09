@@ -18,5 +18,4 @@ deliver faster than expected. Comfortable for Front-End web development.
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Davronov-Alimardon)](https://git.io/streak-stats)
