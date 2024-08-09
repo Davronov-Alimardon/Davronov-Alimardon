@@ -19,4 +19,4 @@ deliver faster than expected. Comfortable for Front-End web development.
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Davronov-Alimardon)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davronov-Alimardon)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon&show_icons=true&locale=en" alt="Davronov-Alimardon" /></p>
