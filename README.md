@@ -18,7 +18,7 @@ deliver faster than expected. Comfortable for Front-End web development.
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-<h2><img src="https://github.com/Davronov-Alimardon/Davronov-Alimardon/github.png" style="height:10px;" alt="Github ICON" /> Github Statistics</h2>
+<h2><img src="https://github.com/Davronov-Alimardon/Davronov-Alimardon/blob/main/github.png" style="height:10px;" alt="Github ICON" /> Github Statistics</h2>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=false&count_private=true" style="height:160px;" alt="Davronov-Alimardon's GitHub Stats" />
