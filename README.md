@@ -20,6 +20,4 @@ deliver faster than expected. Comfortable for Front-End web development.
 
 ## GITHUB STATISTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=false&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Davronov-Alimardon&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Davronov-Alimardon's GitHub Stats" />
