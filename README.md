@@ -21,6 +21,6 @@ deliver faster than expected. Comfortable for Front-End web development.
 <h2>📊 Github Statistics</h2>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=false&count_private=true" style="width:50%;height:160px" alt="Davronov-Alimardon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=false&count_private=true" style="width:49%;height:160px" alt="Davronov-Alimardon's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davronov-Alimardon&theme=default&hide_border=false" style="width:50%;height:160px" alt="Davronov-Alimardon's GitHub Stats" />
 </div>
