@@ -17,3 +17,8 @@ deliver faster than expected. Comfortable for Front-End web development.
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+
+## GITHUB STATISTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Davronov-Alimardon&theme=default&hide_border=true)
