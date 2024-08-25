@@ -7,7 +7,7 @@ large enterprise products, and award-winning agencies. Familiar with both
 remote, and in-office roles. Always seeking to take ownership of the project and
 deliver faster than expected. Comfortable for Front-End web development.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
