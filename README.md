@@ -1,11 +1,11 @@
 [![Header](https://github.com/Davronov-Alimardon/Davronov-Alimardon/blob/main/banner.png?raw=true "Header")](https://github.com/Davronov-Alimardon)
 
-## 👋 Hello!  
+## 👋 Hello!
 
-Software engineer with 1+ year of experience. Worked for innovative startups, 
+Software engineer with 1+ year of experience. Worked for innovative startups,
 large enterprise products, and award-winning agencies. Familiar with both
 remote, and in-office roles. Always seeking to take ownership of the project and
-deliver faster than expected. Comfortable for Front-End web development. 
+deliver faster than expected. Comfortable for Front-End web development.
 
 ## 🛠️ Technologies & Tools
 
