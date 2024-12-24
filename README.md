@@ -1,6 +1,6 @@
 [![Header](https://github.com/Davronov-Alimardon/Davronov-Alimardon/blob/main/banner.png?raw=true "Header")](https://github.com/Davronov-Alimardon)
 
-## 👋 Welcome!
+## 👋 Welcome! 
 
 Software engineer with 2+ year of experience. Worked for innovative startups,
 large enterprise products, and award-winning agencies. Familiar with both
