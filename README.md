@@ -3,10 +3,9 @@
 -->
 ## 👋 Welcome!
 
-Software engineer with 2+ year of experience. Worked for innovative startups,
-large enterprise products, and award-winning agencies. Familiar with both
-remote, and in-office roles. Always seeking to take ownership of the project and
-deliver faster than expected. Comfortable for Front-End web development.
+Senior Software Engineer. Worked for innovative startups, large enterprise products, and award-winning agencies. 
+Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. 
+Comfortable for Full-Stack web development.
 
 ## 🛠️ Technologies & Tools
 
