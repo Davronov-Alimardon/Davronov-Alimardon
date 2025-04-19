@@ -1,5 +1,7 @@
 <!--
-[![Header](https://github.com/Davronov-Alimardon/Davronov-Alimardon/blob/main/banner.png?raw=true "Header")](https://github.com/Davronov-Alimardon)
+
+I don't need comments in my code. You need to level up )))
+
 -->
 ## 👋 Welcome!
 
