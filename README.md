@@ -24,7 +24,7 @@ Comfortable for Full-Stack web development.
 <h2>📊 Github Statistics</h2>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon" style="height:160px" alt="" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Davronov-Alimardon" style="height:160px" alt="" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davronov-Alimardon" style="height:160px" alt="" />
 </div>
 
